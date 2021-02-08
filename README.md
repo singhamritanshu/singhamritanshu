@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on "The Simpsons".
 - 🌱 I’m currently learning Renforcment Learning
-- 💬 Ask me about Machine Learning or any tech related stuff.
+- 💬 Ask me about Deep Learning or any tech related stuff.
 - 📫 How to reach me: amritanshusingh682@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ‘Fun Facts’ Are Never Fun.
 -->

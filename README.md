@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on "The Simpsons".
+- 🔭 I’m currently working on "Image Segmentation".
 - 🌱 I’m currently learning Renforcment Learning.
 - 💬 Ask me about Deep Learning or any tech related stuff.
 - 📫 How to reach me: amritanshusingh682@gmail.com

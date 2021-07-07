@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 - 🔭 I’m currently working on "Image Segmentation".
 - 🌱 I’m currently learning Renforcment Learning.
